@@ -1,6 +1,6 @@
 {
   "name": "tf-leaflet-freedraw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zoopla inspired freehand polygon creation using Leaflet.js.",
   "source": "src/FreeDraw.js",
   "main": "dist/leaflet-freedraw.cjs.js",
@@ -46,7 +46,7 @@
     "@turf/helpers": "^6.1.4"
   },
   "peerDependencies": {
-    "leaflet": "^1.9.4",
+    "leaflet": "1.7.1",
     "ramda": "^0.22.1"
   },
   "devDependencies": {
